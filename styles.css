@@ -252,7 +252,7 @@ figcaption, label, input, small{
 
     main{
         justify-content: center;
-        grid-template-rows: 190px 1fr ;
+        grid-template-rows: 275px 1fr ;
        }
 
     #images{
@@ -274,7 +274,7 @@ figcaption, label, input, small{
        }
     main{
         justify-content: center;
-        grid-template-rows: 121px 1fr 200px ;
+        grid-template-rows: 275px 1fr 200px ;
        }
 
     #images{
